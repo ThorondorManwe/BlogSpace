@@ -1,0 +1,1 @@
+This project is created to pulling down data from the JSON placeholder API in order to show the posts on the page.
